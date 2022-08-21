@@ -40,6 +40,7 @@ div.desc {
     <img src="https://www.reddit.com/r/okbuddyhololive/" alt="koromotorhead" width="600" height="400">
   </a>
   <div class="desc">koromotorhead</div>
+
 </div>
 </body>
 </html>
