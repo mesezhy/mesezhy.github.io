@@ -36,8 +36,8 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://www.reddit.com/r/okbuddyhololive/https://i.redd.it/wzojvdu7xzi91.jpg">
-    <img src="https://www.reddit.com/r/okbuddyhololive/https://i.redd.it/wzojvdu7xzi91.jpg" alt="koromotorhead" width="600" height="400">
+  <a target="_blank" href="https://i.redd.it/wzojvdu7xzi91.jpg">
+    <img src="https://i.redd.it/wzojvdu7xzi91.jpg" alt="koromotorhead" width="600" height="400">
   </a>
   <div class="desc">koromotorhead</div>
 
